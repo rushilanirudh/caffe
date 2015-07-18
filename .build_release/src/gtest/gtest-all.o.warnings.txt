@@ -1,0 +1,4 @@
+src/gtest/gtest-all.cpp:7513:12: warning: unused variable 'kPathSeparatorString' [-Wunused-const-variable]
+const char kPathSeparatorString[] = "/";
+           ^
+1 warning generated.
